@@ -1,4 +1,4 @@
-###🫀 Heart Arrhythmia Prediction (SAS)
+🫀 Heart Arrhythmia Prediction (SAS)
 
 
 📌 Project Overview
